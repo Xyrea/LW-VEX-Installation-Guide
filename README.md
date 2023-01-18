@@ -1,2 +1,2 @@
-# LW-VEX-Installation-Guide
-LW VEX Installation Guide
+## Installation
+Please refer to https://github.com/Lunahax/VALORANT-EXTERNAL#installation

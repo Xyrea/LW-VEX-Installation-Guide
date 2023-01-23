@@ -1,3 +1,6 @@
+# V-External Installation Guide
+> If you need any help please send me a DM or create a modmail thread.
+
 ## <a id="installation"></a>⚙️ 〢 Installation
 
 1. Make sure the `.zip` shares a drive with your game
